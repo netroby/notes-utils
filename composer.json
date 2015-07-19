@@ -1,0 +1,16 @@
+{
+    "name": "netroby/notes-utils",
+    "description": " ",
+    "license": "MIT",
+    "keywords": [
+        "netroby",
+        "notes",
+        "utils"
+    ],
+    "homepage": "https://github.com/netroby/notes-utils",
+    "autoload": {
+        "psr-4": {
+            "Notes\\Utils\\": "src/"
+        }
+    }
+}
